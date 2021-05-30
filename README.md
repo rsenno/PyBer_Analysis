@@ -13,7 +13,7 @@ As a follow-on to the previous work, a summary table of the ride-sharing data by
 -	**Average Fare per Driver:** Rural fares averaged $55.49 per driver, suburban fares averaged $39.50 per driver, and urban fares averaged $16.57 per driver.
 -	**Table highlighting the differences by city type:**
 -	![Image of Pyber summary table](analysis/Pyber_summary_Screenshot_2021-05-30_151459.png)
--	**Total Fare by City Type:** Looking at the total fare by city type over time, the differences showed minimal volatility. The urban fare weekly totals never went below $1661.68 nor above $2470.93, the suburban weekly fare totals never went below $721.60 nor above $1412.74, and the rural fare totals never went below $67.65 nor above $501.24
+-	**Total Fare by City Type:** Looking at the total fare by city type over time, all three markets showed minimal volatility. The urban fare weekly totals never went below $1661.68 nor above $2470.93, the suburban weekly fare totals never went below $721.60 nor above $1412.74, and the rural fare totals never went below $67.65 nor above $501.24
 -	**Chart of Total Fare by City Type Over Time**
 -	![Image of Pyber summary table](analysis/PyBer_fare_summary.png)
 
